@@ -1,0 +1,22 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "This is a prototype of simple calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "/Users/enduser/Documents/GitHub/COMP2068JSFrameworks"
+  },
+  "keywords": [
+    "simple",
+    "calculator"
+  ],
+  "author": "Kshitij Narula",
+  "license": "ISC",
+  "dependencies": {
+    "connect": "^3.7.0"
+  }
+}
